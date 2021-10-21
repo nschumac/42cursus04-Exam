@@ -9,9 +9,9 @@ The aim of the exam was to create a programm that could handle and run bash pipe
 - now execute microshell as in the example above (for the commands use direct paths)
 
 ## Subject:
-<object data="https://github.com/nschumac/42cursus04-Exam/blob/main/subject/minitalk-en.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="https://github.com/nschumac/42cursus04-Exam/blob/main/subject/minitalk-en.pdf">
-        <p><a href="https://github.com/nschumac/42cursus04-Exam/blob/main/subject/minitalk-en.pdf">ft_printf subject</a></p>
+<object data="https://github.com/nschumac/42cursus04-Exam/blob/main/subject/microshell-en.txt" type="application/pdf" width="700px" height="700px">
+    <embed src="https://github.com/nschumac/42cursus04-Exam/blob/main/subject/microshell-en.txt">
+        <p><a href="https://github.com/nschumac/42cursus04-Exam/blob/main/subject/microshell-en.txt">microshell subject</a></p>
     </embed>
 </object>
 
